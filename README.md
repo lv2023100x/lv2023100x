@@ -1,4 +1,4 @@
-### Hi there 👋
+## The man with a new idea is a crank until the idea succeeds. 👋
 
 <!--
 **lv2023100x/lv2023100x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
